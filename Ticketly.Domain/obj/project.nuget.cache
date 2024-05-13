@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQWm0b6heVcPqRKIujKsjr471HNzJKdE8mRYaj8GwoQZld7uQitO9BtGNgX5zQiw+4Qk+bpGJSghMMfChkwdNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tatevik.barseghyan\\source\\repos\\Ticketly\\Ticketly.Domain\\Ticketly.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tatevik.barseghyan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\tatevik.barseghyan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\tatevik.barseghyan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

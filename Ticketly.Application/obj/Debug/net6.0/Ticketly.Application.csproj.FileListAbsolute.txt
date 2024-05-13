@@ -1,0 +1,15 @@
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\bin\Debug\net6.0\Ticketly.Application.deps.json
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\bin\Debug\net6.0\Ticketly.Application.dll
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\bin\Debug\net6.0\Ticketly.Application.pdb
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\bin\Debug\net6.0\Ticketly.Domain.dll
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\bin\Debug\net6.0\Ticketly.Domain.pdb
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\Ticketly.Application.csproj.AssemblyReference.cache
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\Ticketly.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\Ticketly.Application.AssemblyInfoInputs.cache
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\Ticketly.Application.AssemblyInfo.cs
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\Ticketly.Application.csproj.CoreCompileInputs.cache
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\Ticketly.Application.csproj.CopyComplete
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\Ticketly.Application.dll
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\refint\Ticketly.Application.dll
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\Ticketly.Application.pdb
+C:\Users\tatevik.barseghyan\source\repos\Ticketly\Ticketly.Application\obj\Debug\net6.0\ref\Ticketly.Application.dll
